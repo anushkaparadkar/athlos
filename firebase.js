@@ -1,2 +1,5 @@
+function changeBackgound(img)
+{
+    
+}
 
-    alert ("Hello");
