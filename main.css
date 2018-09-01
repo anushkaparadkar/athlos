@@ -18,9 +18,11 @@ h6 {
 }
 
 body {
-  background-size: cover;
+  background-size:cover;
+  background-repeat: no-repeat;
+  min-height:500px;
 }
-.heading {
+.container {
   text-align: center;
-  padding: 25%;
+  padding-top: 15%;
 }
