@@ -9,3 +9,5 @@ setInterval(function() {
         i = 0;
     }
 }, 2000);
+
+var text="Athlos";
